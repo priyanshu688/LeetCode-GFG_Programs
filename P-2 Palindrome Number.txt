@@ -1,0 +1,56 @@
+Given an integer x, return true if x is palindrome integer.
+
+An integer is a palindrome when it reads the same backward as forward. For example, 121 is palindrome while 123 is not.
+
+Example 1:
+
+Input: x = 121
+Output: true
+Example 2:
+
+Input: x = -121
+Output: false
+Example 3:
+
+Input: x = 10
+Output: false
+Example 4:
+
+Input: x = -101
+Output: false
+Constraints:
+
+- -2^31 <= x <= 2^31 - 1
+Explanation
+As mentioned in the problem statement, palindrome number is one that reads the same from both sides.
+
+Brute force solution
+A brute force solution will be to convert the integer into a string, reverse the string, and check if the two strings are the same.
+
+Solution- 
+In C++
+
+class Solution {
+public:
+    bool isPalindrome(int x) {
+        if(x < 0){
+            return false;
+        }
+
+        int divisor = 1;
+        while(x/divisor >= 10){
+            divisor *= 10;
+        }
+
+        while(x != 0){
+            if (x / divisor != x % 10) {
+                return false;
+            }
+            x %= divisor;
+            x /= 10;
+            divisor /= 100;
+        }
+
+        return true;
+    }
+};
