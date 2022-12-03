@@ -30,7 +30,7 @@ Input:
 Output:-
   4
 
-Explanation:
+Explanation:-
    The first cow can be placed at stalls[0], the second cow can be placed at stalls[1] and the third cow can be placed at stalls[4]. The minimum distance between cows, in this case, is 4,
     which also is the largest among all possible ways.
 
@@ -40,7 +40,7 @@ Complete the function int solve(), which takes integer n, k, and a vector stalls
 Expected Time Complexity: O(n*log(10^9)).
 Expected Auxiliary Space: O(1).
 
-Constraints:
+Constraints:-
 2 <= n <= 10^5
 2 <= k <= n
 0 <= stalls[i] <= 10^9
