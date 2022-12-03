@@ -20,14 +20,14 @@ the third cow can be placed at stalls[3].
 The minimum distance between cows, in this case, is 3, 
 which also is the largest among all possible ways.
 
-Example 2:
+Example 2:-
 
 Input:
   n=5 
   k=3
   stalls = [10 1 2 7 5]
 
-Output:
+Output:-
   4
 
 Explanation:
