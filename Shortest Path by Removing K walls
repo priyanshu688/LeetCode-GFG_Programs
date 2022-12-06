@@ -32,7 +32,7 @@ Your Task:
 The task is to complete the function shotestPath() which takes three integers n, m, and k and also a matrix of size n*m as input and returns the minimum number of steps to walk from the top left corner to the bottom right corner.
 
 
-Constraints:
+Constraints:-
 1 ≤ n,m ≤ 50
 0 ≤ k ≤ n*m
 Top left and bottom right corners doesn't have 1
