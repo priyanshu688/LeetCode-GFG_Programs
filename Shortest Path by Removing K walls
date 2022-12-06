@@ -45,7 +45,7 @@ Solution :-
 
 class Solution {
     static int shotestPath(int[][] mat, int n, int m, int k) {
-        // code 
+        
         int[][]dirs={{1,0},{0,1},{0,-1},{-1,0}};
         Queue<int[]> q=new LinkedList<>();
         q.add(new int[]{0,0,k});
