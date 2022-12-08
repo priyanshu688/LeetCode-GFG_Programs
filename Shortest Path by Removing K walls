@@ -1,4 +1,4 @@
-Program :-
+Program:-
 Shortest Path by Removing K walls
 
 Given a 2-D binary matrix of size n*m, where 0 represents an empty space while 1 represents a wall you cannot walk through. You are also given an integer k.
