@@ -42,7 +42,7 @@ Top left and bottom right corners doesn't have 1
 Expected Time Complexity: O(n*m*k).
 Expected Auxiliary Space: O(n*m*k).
 
-Solution:-
+Solution :-
 
 class Solution {
     static int shotestPath(int[][] mat, int n, int m, int k) {
