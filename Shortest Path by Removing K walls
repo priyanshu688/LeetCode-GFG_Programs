@@ -12,7 +12,7 @@ Input: n = 3, m = 3, k = 1
 mat = {{0, 0, 0},
        {0, 0, 1},
        {0, 1, 0}}
-Output:-
+Output :-
 4
 
 Explanation:-
