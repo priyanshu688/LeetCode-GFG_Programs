@@ -22,7 +22,7 @@ which also is the largest among all possible ways.
 
 Example 2:-
 
-Input:
+Input:-
   n=5 
   k=3
   stalls = [10 1 2 7 5]
