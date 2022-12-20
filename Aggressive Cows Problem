@@ -3,7 +3,7 @@ You are given an array consisting of n integers which denote the position of a s
 The first line of input contains two space-separated integers n and k.
 The second line contains n space-separated integers denoting the position of the stalls.
 
-Example 1:
+Example 1:-
 
 Input:
    n=5 
