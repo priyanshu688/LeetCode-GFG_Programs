@@ -10,7 +10,7 @@ Input:
    k=3
    stalls = [1 2 4 8 9]
    
-Output:
+Output:-
  3
 
 Explanation:
