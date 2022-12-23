@@ -17,7 +17,7 @@ Output :-
 
 Explanation :-
 We can remove any one of the walls and reach the bottom in 4 moves.  
-Example 2:-
+Example 2 :-
 
 Input :-
 n = 2, m = 2, k = 0
