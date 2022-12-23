@@ -26,7 +26,7 @@ mat[] = {{0, 1},
 Output:-
 -1
 
-Explanation:-
+Explanation :-
 There's no way of reaching the bottom corner without removing any walls.
 
 Your Task:-
