@@ -1,4 +1,4 @@
-// program in java 
+// program in java lang
 
 class Solution {
 public:
