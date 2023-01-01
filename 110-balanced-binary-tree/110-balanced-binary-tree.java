@@ -16,7 +16,7 @@
 /*class Solution {
     public boolean isBalanced(TreeNode root) { */
 
-//program 
+//program in java
 
        class Solution { 
 
