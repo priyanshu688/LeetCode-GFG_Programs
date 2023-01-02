@@ -1,4 +1,4 @@
-//program in
+//program in java
 
 class Solution {
     public int dayOfYear(String date) {
