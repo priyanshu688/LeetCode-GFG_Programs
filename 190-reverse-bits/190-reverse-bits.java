@@ -1,4 +1,4 @@
-//program for
+//program for java
 
 public class Solution {
     // you need treat n as an unsigned value
