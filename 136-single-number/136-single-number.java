@@ -1,4 +1,4 @@
-//program in ja
+//program in java
 
 class Solution {
     public int singleNumber(int[] nums) {
